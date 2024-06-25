@@ -1,0 +1,7 @@
+pylint
+black
+kaggle
+torch
+matplotlib
+pandas
+tqdm
